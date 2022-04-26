@@ -18,3 +18,6 @@
 14. [Unit Testing, Mocking with Substitute](https://github.com/scalable-web-systems/unit-testing-mocking)* - This tutorial explains mocking and it's utility in writing unit tests. Fluffyspoon's **Substitute** is used to illustrate the concept.
 
 **Note:** The tutorials marked with an asterik have incomplete documentation and need some polishing.
+
+![image](https://user-images.githubusercontent.com/7733516/165401208-43c2cc62-389e-430c-923e-45a22d1893fc.png)
+
