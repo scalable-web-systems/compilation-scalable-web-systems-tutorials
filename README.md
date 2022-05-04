@@ -15,7 +15,7 @@
 11. [Typescript Basics](https://github.com/scalable-web-systems/typescript-basics)* - This tutorial covers the fundamentals of typescript - type annotations, type declarations, classes as types, object types, tuple types, intersection types, generic types. (03/24/2022)
 12. [Express Basics](https://github.com/scalable-web-systems/express-nodejs) - This tutorial focuses on Javascript's minimal API framework Express and teaches how to create a basic server using Express. (03/30/2022)
 13. [Unit Testing using Jest, Basics](https://github.com/scalable-web-systems/unit-testing-basics) - This tutorial explains the importance of unit testing and goes over how to write basic unit tests with typescript using Jest. It also explains how to install and configure Jest to work with typescript. (04/10/2022)
-14. [Unit Testing, Mocking with Substitute](https://github.com/scalable-web-systems/unit-testing-mocking)* - This tutorial explains mocking and it's utility in writing unit tests. Fluffyspoon's **Substitute** is used to illustrate the concept.
+14. [Unit Testing, Mocking with Substitute](https://github.com/scalable-web-systems/unit-testing-mocking) - This tutorial explains mocking and it's utility in writing unit tests. Fluffyspoon's **Substitute** is used to illustrate the concept.
 
 **Note:** The tutorials marked with an asterik have incomplete documentation and need some polishing.
 
